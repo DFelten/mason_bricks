@@ -1,0 +1,14 @@
+name: freezed_bloc
+description: Mason brick for Bloc with freezed.
+version: 0.1.0
+repository: https://github.com/DFelten/mason_bricks/tree/master/bricks/freezed/fbloc
+
+environment:
+  mason: ">=0.1.0-dev <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: Name of Bloc
+    default: counter
+    prompt: Please enter the bloc name.
