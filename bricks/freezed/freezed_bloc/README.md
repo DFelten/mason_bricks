@@ -5,13 +5,13 @@
 ## Usage
 
 ```sh
-mason make fbloc --name counter
+mason make freezed_bloc --name counter
 ```
 
 Specify output directory:
 
 ```sh
-mason make fbloc --name counter -o ./path
+mason make freezed_bloc --name counter -o ./path
 ```
 
 ## Variables ✨

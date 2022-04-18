@@ -1,0 +1,13 @@
+name: freezed_model
+description: Mason brick for model with freezed.
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev <0.1.0"
+
+vars:
+  name:
+    type: string
+    description: The name of the model class.
+    default: model
+    prompt: Please enter the model name.

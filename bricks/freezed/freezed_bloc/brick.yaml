@@ -1,6 +1,6 @@
 name: freezed_bloc
 description: Mason brick for Bloc with freezed.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/DFelten/mason_bricks/tree/main/bricks/freezed/freezed_bloc
 
 environment:
